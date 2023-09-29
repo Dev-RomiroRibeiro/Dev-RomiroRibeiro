@@ -14,7 +14,7 @@
  
 <br>
  
-### Para contato e me conhecer, segue minhas redes abaixo!
+### Minhas Redes Sociais aqui abaixo!
  
 <div> 
   <a href="https://instagram.com/blackr.mc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
